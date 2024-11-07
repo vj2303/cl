@@ -1,0 +1,14 @@
+
+RNA-Seq Data Analysis Report
+============================
+Differentially Expressed Genes:
+     gene  adjusted_p_value
+1  gene_2          0.018893
+
+Functional Annotations:
+     gene annotation
+1  gene_2  Pathway B
+
+Potential Biological Interpretations:
+- The genes such as gene_1, gene_2, etc., are involved in pathways A, B, etc.
+These pathways are important for understanding the effect of the treatment condition.
